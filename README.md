@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/outHereSam/base-apparel-coming-soon-page)
+- Live Site URL: [Github Pages Site](https://outheresam.github.io/base-apparel-coming-soon-page/)
 
 ## My process
 
